@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dreamer.mapper.TimeMapperTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-25T07:28:02" hostname="DESKTOP-M3BGG1A" time="0.28">
+  <properties/>
+  <testcase name="oracleTimeMapperAnnoTest" classname="com.dreamer.mapper.TimeMapperTests" time="0.28"/>
+  <system-out><![CDATA[INFO  [DefaultTestContextBootstrapper:248] - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+INFO  [DefaultTestContextBootstrapper:177] - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@33606e6a, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@b0cdf65, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@4aa44413, org.springframework.test.context.support.DirtiesContextTestExecutionListener@64360fc0, org.springframework.test.context.transaction.TransactionalTestExecutionListener@54153e12, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@390f2402]
+INFO  [HikariDataSource:80] - HikariPool-1 - Starting...
+WARN  [DriverDataSource:68] - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+INFO  [HikariDataSource:82] - HikariPool-1 - Start completed.
+INFO  [TimeMapperTests:17] - Current Time is......
+INFO  [TimeMapperTests:18] - 2020-03-25 16:28:02.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
